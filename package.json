@@ -1,0 +1,9 @@
+{
+  "name": "solidity-stringutils",
+  "version": "0.0.1",
+  "description": "Solidity string utils.",
+  "files": [
+    "src/strings.sol"
+  ],
+  "license": "Apache-2.0"
+}
